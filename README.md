@@ -3,10 +3,10 @@
 This is a PCB I've designed to work with the marvelous idea, firmware and software 
 from Rob Smith: https://github.com/RobSmithDev/ArduinoFloppyDiskReader 
 
-It's nothing fancy but has some benefits I think do matter:
+It's nothing fancy but has some benefits I think that do matter:
 
 * integrated _real_ FTDI232RL for communication and AVR flashing
-* Decent DC/DC converter that can handle up to 5V/1A and wide input voltage from 7-36V. 
+* Decent DC/DC converter that can handle up to 5V/1A and wide input voltage (7-36V). 
 This is the more power friendly way, as some drives demand more than the 
 max. 500mA USB delivers
 * Switchable to USB power if desired
@@ -16,6 +16,9 @@ can use a 12V power source
 
 Of course this is only a fun project and does not aim to be the _best_ solution for Rob's 
 approach, but it made my life easier.
+
+This is the first release, as the PCB's have to be tested. I'm currently waiting for the 
+prototypes.
 
 ## PCB
 
