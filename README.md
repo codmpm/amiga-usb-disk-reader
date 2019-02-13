@@ -19,9 +19,11 @@ approach, but it made my life easier.
 
 ## PCB
 
-![amiga-usb-disk-reader-pcb-top.png]
+![PCB top](amiga-usb-disk-reader-pcb-top.png)
 
-![amiga-usb-disk-reader-pcb-bottom.png]
+![PCB bottom](amiga-usb-disk-reader-pcb-bottom.png)
+
+
 
 ## Contributing
 
