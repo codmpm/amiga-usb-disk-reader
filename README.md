@@ -1,6 +1,6 @@
 # Amiga USB Floppy Disk Reader
 
-> __abandoned in favor of https://nickslabor.niteto.de/projekte/adf-copy/ __
+> __abandoned in favor of https://nickslabor.niteto.de/projekte/adf-copy/__
 
 This is a PCB I've designed to work with the marvelous idea, firmware and software 
 from Rob Smith: https://github.com/RobSmithDev/ArduinoFloppyDiskReader 
